@@ -6,6 +6,7 @@ To iterate through rows run an outer loop from 1 to rows.<p/> The loop structure
 To print spaces, run an inner loop from i to rows - 1.<p/> The loop structure should look like for(j=i; j<rows; j++).<p/> Inside this loop print single space.<p/>
 To print star, run another inner loop from 1 to i * 2 - 1.<p/> The loop structure should look like for(j=1; j<=(i*2-1); j++).<p/> Inside this loop print star for ith or last column or for last row.<p/>
 After printing all columns of a row, move to next line i.e. print new line.
+
 ![01](triangleinc.PNG)
 
 
