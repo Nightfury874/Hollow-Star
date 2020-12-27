@@ -12,3 +12,9 @@ After printing all columns of a row, move to next line i.e. print new line.
 
 ## In C++
 The pattern is similar to pyramid pattern.<p/> The only difference is, we will replace all internal ‘*’ characters by space character and we will 2*N-1 (N = number of rows in pattern) ‘*’ characters in last row.
+
+![01](trianglecpp.PNG)
+
+## In Python
+
+![01](trianglepy.PNG)
